@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "6e5096aa0edbe920",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5903622669c9b4c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Artificer Worshop/Build Ideas.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1087c9285acf1b13",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e5505e86821932f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94585b23bf21b0eb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "448ef7ea9575cd2a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "df7ed5c22c4fbd42",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f7db7ae599cb3f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d146e67f4d8ee50f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Artificer Worshop/Build Ideas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d5903622669c9b4c",
+  "lastOpenFiles": [
+    "Artificer Worshop/Build Ideas.md",
+    "Lingering Questions.md",
+    "Jot-downs.md",
+    "Party Inventory.md"
+  ]
+}
