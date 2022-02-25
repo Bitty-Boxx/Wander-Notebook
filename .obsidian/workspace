@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Artificer Worshop/Build Ideas.md",
+            "file": "Adventure Records/Venture Records/An Unwanted Descent.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificer Worshop/Build Ideas.md",
+                "file": "Adventure Records/Venture Records/An Unwanted Descent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "d5903622669c9b4c",
   "lastOpenFiles": [
+    "Adventure Records/Venture Records/An Unwanted Descent.md",
     "Artificer Worshop/Build Ideas.md",
     "Lingering Questions.md",
     "Jot-downs.md",
