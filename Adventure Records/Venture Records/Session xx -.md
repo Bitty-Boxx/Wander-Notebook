@@ -29,3 +29,4 @@
 : The person in the maroon robes is Grimthal 
 
 : Ham, Sirona, and Wander turn in Chi Ken's corpse for the bounty 
+	: Bump into Lord Agatha, Pepe LeFleur, Lord Grasswhistle
