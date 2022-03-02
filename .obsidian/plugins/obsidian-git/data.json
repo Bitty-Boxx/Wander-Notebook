@@ -1,5 +1,5 @@
 {
-  "commitMessage": "Hub vault backup: {{date}}",
+  "commitMessage": "{{hostname}} vault backup: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 60,
   "autoPullInterval": 90,
