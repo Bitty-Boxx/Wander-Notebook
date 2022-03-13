@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Adventure Records/Venture Records/Session x1 - The Midsummer Masquerade.md",
-            "mode": "source"
+            "file": "Adventure Records/Quest List.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventure Records/Venture Records/Session x1 - The Midsummer Masquerade.md",
+                "file": "Adventure Records/Quest List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,14 +88,15 @@
   },
   "active": "d5903622669c9b4c",
   "lastOpenFiles": [
-    "Adventure Records/Venture Records/Session x1 - The Midsummer Masquerade.md",
-    "Adventure Records/Venture Records/Session x0 -.md",
-    "Jot-downs.md",
-    "Lingering Questions.md",
-    "Artificer Worshop/Loadouts.md",
-    "Artificer Worshop/Material Inventory.md",
-    "Artificer Worshop/Build Ideas.md",
-    "Adventure Records/Venture Records/An Unwanted Descent.md",
-    "Party Inventory.md"
+    "Adventure Records/Quest List.md",
+    "Adventure Records/Venture Records/Session v4 - An Unwanted Descent.md",
+    "Adventure Records/Venture Records/Session v3 - The Robinfell Residence.md",
+    "Adventure Records/Venture Records/Session v2 - Road to Uldah prt 2.md",
+    "Adventure Records/Venture Records/Session v1 - Road to Uldah.md",
+    "Adventure Records/Venture Records/Session x0 - Formal Preperations.md",
+    "Adventure Records/Venture Records/Session v0 - Entering Fillthar.md",
+    "Adventure Records/Venture Records/Session x2 - Lights Out.md",
+    "Untitled.md",
+    "Adventure Records/Venture Records/Session x1 - The Midsummer Masquerade.md"
   ]
 }
