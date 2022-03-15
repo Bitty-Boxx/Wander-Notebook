@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "d5903622669c9b4c",
+        "id": "040fbba2ed0c4091",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Adventure Records/Session Records/Session 20 -.md",
-            "mode": "source"
+            "file": "Party Inventory.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventure Records/Session Records/Session 20 -.md",
+                "file": "Party Inventory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d5903622669c9b4c",
+  "active": "040fbba2ed0c4091",
   "lastOpenFiles": [
-    "Adventure Records/Session Records/Session 20 -.md",
-    "Adventure Records/Session Records/Session 19 - The Magus's Elite.md",
-    "Adventure Records/Session Records/Session 18 - Ashgore Arrival.md",
-    "Adventure Records/Session Records/Session 17 - The Approach.md",
-    "Adventure Records/Session Records/Session 16.5 (Downtime) - The Calm.md",
-    "Adventure Records/Session Records/Session 16 - Onset of Disaster.md",
-    "Adventure Records/Session Records/Session 15 - Vain Malice.md",
-    "Adventure Records/Session Records/Session 14 - Return to Entropy.md",
-    "Adventure Records/Session Records/Session 13 - Unnatural Encounters.md",
-    "Adventure Records/Session Records/Session 12 - Enter Second Structure, Scrap Tree.md"
+    "Party Inventory.md",
+    "Adventure Records/Session Records/Session 38 - No Dancing in the Dark.md",
+    "Adventure Records/Session Records/Session 37 - The Midsummer Masquerade.md",
+    "Adventure Records/Session Records/Session 36 - Formal Preperations.md",
+    "Adventure Records/Session Records/Session 35 - An Unwanted Descent.md",
+    "Adventure Records/Session Records/Session 0.5 (Solo) - How to Hunt.md",
+    "Adventure Records/Session Records/Session 30 (IRL) -.md",
+    "Adventure Records/Session Records/Session 13 - Unnatural Inhabitants.md",
+    "Adventure Records/Session Records/Session 4 - Merchant's Day, Rise & Shine Goldenjoy.md",
+    "Adventure Records/Session Records/Session 34 - The Robinfell Residence.md"
   ]
 }
