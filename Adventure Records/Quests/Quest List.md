@@ -25,6 +25,6 @@
 - [ ] Battle Ramuh
 
 ### Former Sungelian Theocracy - 
-- [ ] Find diamond mine
+- [ ] Find diamond mines
 - [ ] Visit and investigate Avemo
 - [ ] Find and investigate the Sepulchur

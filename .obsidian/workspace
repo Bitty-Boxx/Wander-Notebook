@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Party Inventory.md",
-            "mode": "preview"
+            "file": "Adventure Records/Personal Interests.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Party Inventory.md",
+                "file": "Adventure Records/Personal Interests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "040fbba2ed0c4091",
   "lastOpenFiles": [
+    "Adventure Records/Personal Interests.md",
+    "Adventure Records/Threat Index.md",
     "Party Inventory.md",
-    "Adventure Records/Session Records/Session 38 - No Dancing in the Dark.md",
-    "Adventure Records/Session Records/Session 37 - The Midsummer Masquerade.md",
-    "Adventure Records/Session Records/Session 36 - Formal Preperations.md",
-    "Adventure Records/Session Records/Session 35 - An Unwanted Descent.md",
-    "Adventure Records/Session Records/Session 0.5 (Solo) - How to Hunt.md",
-    "Adventure Records/Session Records/Session 30 (IRL) -.md",
-    "Adventure Records/Session Records/Session 13 - Unnatural Inhabitants.md",
-    "Adventure Records/Session Records/Session 4 - Merchant's Day, Rise & Shine Goldenjoy.md",
-    "Adventure Records/Session Records/Session 34 - The Robinfell Residence.md"
+    "Artificer Worshop/Loadouts.md",
+    "Artificer Worshop/Build Ideas.md",
+    "Artificer Worshop/Material Inventory.md",
+    "Artificer Worshop/Project Ideas.md",
+    "Character Profiles/Gilly Goldenjoy.md",
+    "Character Profiles/Wander & Anin.md",
+    "Adventure Records/Quests/Quest List.md"
   ]
 }

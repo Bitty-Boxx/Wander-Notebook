@@ -25,8 +25,9 @@ Possesion: Trognak
 
 ---
 
-- __Cursed Luckstone, A__
-Possesion: ~~Ham~~, ~~Ioto~~
+- ~~__Cursed Luckstone, A__~~
+Possesion: ~~Ham~~, Ioto
+Converted into Wander's +1 Smith's Tools
 
   *" This flat, gray-and-black river stone is inscribed with an unknown arcane symbol and feels cool to the touch."*
   
@@ -38,8 +39,9 @@ Possesion: ~~Ham~~, ~~Ioto~~
     
 ---
 
-- __Gem of the Drunkard, A__
+- ~~__Gem of the Drunkard, A__~~
 Possession: Gilly
+Converted into residium
 
  *" This gem smells of old, ale-stained wood, and when pressed against your ear, you can hear old melodic hums that stir happy thoughts within your heart."*
  
@@ -129,12 +131,12 @@ Possession: Ham
 ---
 
 - __Rosebud, A__
-Formerly: Club of Stained Shifting
 Possession: ~~Leo~~, Blevins
+Formerly: Club of Stained Shifting
 
  *" This wooden club's head has been naturally formed into the shape of a dragon's maw.""*
 
-  As an action, you can speak the club's command word (Rose) and strike the ground with it to cause the club to momentarilly shift to stained glass and cause a wave of jagged glass shards and rose thorns to spring up from the ground in a 15-foot cone in front of you. Each creature in the area must succeed on a DC 13 Dexterity saving throw or take 2d6 slashing damage and be grappled by the rose thorns for up to 1 minute. A grappled creature can use its action to make a DC 13 Strength or Dexterity check, freeing itself on a success. At the end of each of its turns, a grappled creature takes 1d6 piercing damage as it's constricted by the thorny vines and stabbed by glass. Once this property of the club has been used, it can't be used again until the next long rest.
+  As an action, you can speak the club's command word (Rose) and strike the ground with it to cause the club to momentarilly shift to stained glass and cause a wave of jagged glass shards and rose thorns to spring up from the ground in a 15-foot cone in front of you. Each creature in the area must succeed on a DC 13 Dexterity saving throw or take 2d6 slashing damage and be grappled by the rose thorns for up to 1 minute. A grappled creature can use its action to make a DC 15 Strength or Dexterity check, freeing itself on a success. At the end of each of its turns, a grappled creature takes 1d6 piercing damage as it's constricted by the thorny vines and stabbed by glass. Once this property of the club has been used, it can't be used again until the next long rest.
  
   *" Once wielded by the last guardian of The Sunken Temple, this club has been transformed due to the clashing of nature and arcane. This wooden club's head has been naturally formed into the shape of a dragon's maw, which now is filled with red rose petals. Cracks are strewn along the handle, thrumming with energy and wisps of shade."*
   
@@ -194,8 +196,9 @@ Possession: Sirona
 
 ---
 
-- __Cap of Reminding__
+- ~~__Cap of Reminding__~~
 Possession: 
+Converted into residium
 
   It slaps ya, it reminds ya
 
