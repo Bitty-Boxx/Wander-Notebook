@@ -1,4 +1,4 @@
-## Threat Index
+# Threat Index
 + Treacherous Maw
 + Brain
 + Camo Geezer

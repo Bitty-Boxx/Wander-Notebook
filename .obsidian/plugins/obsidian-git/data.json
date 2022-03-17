@@ -1,5 +1,6 @@
 {
   "commitMessage": "{{hostname}} vault backup: {{date}}",
+  "autoCommitMessage": "{{hostname}} vault backup: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 60,
   "autoPullInterval": 90,
@@ -14,5 +15,6 @@
   "gitPath": "",
   "customMessageOnAutoBackup": false,
   "autoBackupAfterFileChange": true,
-  "treeStructure": false
+  "treeStructure": false,
+  "refreshSourceControl": true
 }
