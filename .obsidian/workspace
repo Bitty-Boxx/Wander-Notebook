@@ -7,10 +7,9 @@
         "id": "0de02a8a2629fa05",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Adventure Records/Encounter Index.md",
-            "mode": "preview"
+            "file": "Artificer Worshop/Invention Ideas.md"
           }
         }
       }
@@ -68,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventure Records/Encounter Index.md",
+                "file": "Artificer Worshop/Invention Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,14 +87,14 @@
   },
   "active": "0de02a8a2629fa05",
   "lastOpenFiles": [
+    "Artificer Worshop/Invention Ideas.md",
+    "Artificer Worshop/Build Ideas.md",
+    "Artificer Worshop/Material Inventory.md",
     "Adventure Records/Encounter Index.md",
     "Adventure Records/Groups & Organizations Index.md",
     "Adventure Records/Personal Interests.md",
     "Adventure Records/Threat Index.md",
-    "Artificer Worshop/Build Ideas.md",
-    "Artificer Worshop/Invention Ideas.md",
     "Artificer Worshop/Loadouts.md",
-    "Artificer Worshop/Material Inventory.md",
     "Character Profiles/Gilly Goldenjoy.md",
     "Character Profiles/Ham Sandypants.md"
   ]
