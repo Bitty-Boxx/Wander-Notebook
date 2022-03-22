@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Adventure Records/Quests/Questing Index.md",
+            "file": "Character Profiles/Sirona Elffire.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventure Records/Quests/Questing Index.md",
+                "file": "Character Profiles/Sirona Elffire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "d5903622669c9b4c",
   "lastOpenFiles": [
+    "Character Profiles/Sirona Elffire.md",
+    "Character Profiles/Wander & Anin.md",
+    "Character Profiles/Trognak.md",
     "Adventure Records/Quests/Questing Index.md",
     "Adventure Records/Quests/Quest List.md",
     "conflict-files-obsidian-git.md",
     "Adventure Records/Threat Index.md",
     "Artificer Worshop/Material Inventory.md",
     "Artificer Worshop/Loadouts.md",
-    "Artificer Worshop/Inventions.md",
-    "Artificer Worshop/Build Ideas.md",
-    "Character Profiles/Wander & Anin.md",
-    "Character Profiles/Gilly Goldenjoy.md"
+    "Artificer Worshop/Inventions.md"
   ]
 }
