@@ -5,13 +5,13 @@ Class:
 
 Personality:
 
-Relation: 
-
-### Bio
+### Bio:
 
 
-### Affiliations
+### Affiliations:
+
+Relations:
 
 
-### Notes of Interests
+### Notes of Interests:
 
