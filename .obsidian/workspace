@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "0de02a8a2629fa05",
+        "id": "d5903622669c9b4c",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Artificer Worshop/Invention Ideas.md"
+            "file": "Adventure Records/Quests/Questing Index.md",
+            "mode": "source"
           }
         }
       }
@@ -41,7 +42,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -67,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificer Worshop/Invention Ideas.md",
+                "file": "Adventure Records/Quests/Questing Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0de02a8a2629fa05",
+  "active": "d5903622669c9b4c",
   "lastOpenFiles": [
-    "Artificer Worshop/Invention Ideas.md",
-    "Artificer Worshop/Build Ideas.md",
-    "Artificer Worshop/Material Inventory.md",
-    "Adventure Records/Encounter Index.md",
-    "Adventure Records/Groups & Organizations Index.md",
-    "Adventure Records/Personal Interests.md",
+    "Adventure Records/Quests/Questing Index.md",
+    "Adventure Records/Quests/Quest List.md",
+    "conflict-files-obsidian-git.md",
     "Adventure Records/Threat Index.md",
+    "Artificer Worshop/Material Inventory.md",
     "Artificer Worshop/Loadouts.md",
-    "Character Profiles/Gilly Goldenjoy.md",
-    "Character Profiles/Ham Sandypants.md"
+    "Artificer Worshop/Inventions.md",
+    "Artificer Worshop/Build Ideas.md",
+    "Character Profiles/Wander & Anin.md",
+    "Character Profiles/Gilly Goldenjoy.md"
   ]
 }
