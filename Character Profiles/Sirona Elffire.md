@@ -1,9 +1,9 @@
-# Sirona Elffire
+ # Sirona Elffire
 Age: 
-Race:
-Class: 
+Race: Aasimar (Human Passing)
+Class/Subclass: Paladin - Oath of Ancients
 
-Personality:
+Personality: 
 
 ### Bio:
 
