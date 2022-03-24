@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Party Inventory.md",
+            "file": "Character Profiles/Sirona Elffire.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Party Inventory.md",
+                "file": "Character Profiles/Sirona Elffire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "d5903622669c9b4c",
   "lastOpenFiles": [
-    "Party Inventory.md",
     "Character Profiles/Sirona Elffire.md",
+    "Character Profiles/Lilith.md",
+    "Character Profiles/Leo Diederich.md",
+    "Character Profiles/Ham Sandypants.md",
+    "Character Profiles/Gilly Goldenjoy.md",
+    "Artificer Worshop/Material Inventory.md",
+    "Artificer Worshop/Loadouts.md",
     "Artificer Worshop/Invention Ideas.md",
-    "Character Profiles/Wander & Anin.md",
-    "Character Profiles/Trognak.md",
-    "Adventure Records/Quests/Questing Index.md",
-    "Adventure Records/Quests/Quest List.md",
-    "conflict-files-obsidian-git.md",
-    "Adventure Records/Threat Index.md",
-    "Artificer Worshop/Material Inventory.md"
+    "Artificer Worshop/Build Ideas.md",
+    "Adventure Records/Threat Index.md"
   ]
 }

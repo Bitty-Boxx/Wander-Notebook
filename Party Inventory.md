@@ -14,7 +14,7 @@ Possession:
 
 
 ### Uncomon - 
-- ##### Armed Bag
+- __Armed Bag__
 Possesion: Trognak
 
  *"A bag made out of the dehydrated head of a monstrous elk with human arms instead of antlers. After the head was removed, the latent magic in the creature remained, creating what seems to be an extra dimensional space inside the head."*
@@ -102,8 +102,8 @@ Possession: Wander
 
 ---
 
-- ##### Harvest, A
-Possession: [[Sirona Elffire]]Sirona
+- __Harvest, A__
+Possession: [[Sirona Elffire]]
 
  *" This classic farmer's heirloom depicts wheat and field designs."* 
  
