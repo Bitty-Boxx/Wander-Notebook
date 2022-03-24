@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Character Profiles/Sirona Elffire.md",
+            "file": "Party Inventory.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Profiles/Sirona Elffire.md",
+                "file": "Party Inventory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "d5903622669c9b4c",
   "lastOpenFiles": [
+    "Party Inventory.md",
     "Character Profiles/Sirona Elffire.md",
     "Character Profiles/Lilith.md",
     "Character Profiles/Leo Diederich.md",
@@ -96,7 +97,6 @@
     "Artificer Worshop/Material Inventory.md",
     "Artificer Worshop/Loadouts.md",
     "Artificer Worshop/Invention Ideas.md",
-    "Artificer Worshop/Build Ideas.md",
-    "Adventure Records/Threat Index.md"
+    "Artificer Worshop/Build Ideas.md"
   ]
 }

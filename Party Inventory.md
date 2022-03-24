@@ -80,7 +80,7 @@ Possession: Sirona
 
 ---
 
-- ~~__Feywild Shard, A__~~
+- __Feywild Shard, A__
 Possession: Wander
 
  *" This warm crystal glints with the sunset colors of the Feywild sky and evokes whispers of emotional memory."*
@@ -103,7 +103,7 @@ Possession: Wander
 ---
 
 - __Harvest, A__
-Possession: [[Sirona Elffire]]
+Possession: Sirona Elffire
 
  *" This classic farmer's heirloom depicts wheat and field designs."* 
  
