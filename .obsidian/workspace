@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f9cee3325fc466d6",
+        "id": "d5903622669c9b4c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Character Profiles/Sirona Elffire.md",
+            "file": "Party Inventory.md",
             "mode": "source"
           }
         }
@@ -42,7 +42,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Profiles/Sirona Elffire.md",
+                "file": "Party Inventory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,30 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f9cee3325fc466d6",
+  "active": "d5903622669c9b4c",
   "lastOpenFiles": [
-    "Character Profiles/Sirona Elffire.md",
-<<<<<<< HEAD
-    "Artificer Worshop/Invention Ideas.md",
-=======
-    "Character Profiles/Lilith.md",
->>>>>>> dae112e537b1bea745dd6df5920d020ea71a1af2
-    "Character Profiles/Wander & Anin.md",
-    "Lingering Questions.md",
     "Party Inventory.md",
+    "Character Profiles/Sirona Elffire.md",
+    "Artificer Worshop/Invention Ideas.md",
+    "Character Profiles/Wander & Anin.md",
     "Character Profiles/Trognak.md",
-<<<<<<< HEAD
     "Adventure Records/Quests/Questing Index.md",
     "Adventure Records/Quests/Quest List.md",
     "conflict-files-obsidian-git.md",
     "Adventure Records/Threat Index.md",
-    "Artificer Worshop/Material Inventory.md",
-    "Artificer Worshop/Loadouts.md"
-=======
-    "Pasted image 20220323220551.png",
-    "Character Profiles/Leo Diederich.md",
-    "Character Profiles/Ham Sandypants.md",
-    "Character Profiles/Gilly Goldenjoy.md"
->>>>>>> dae112e537b1bea745dd6df5920d020ea71a1af2
+    "Artificer Worshop/Material Inventory.md"
   ]
 }

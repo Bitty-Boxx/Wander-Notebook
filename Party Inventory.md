@@ -14,7 +14,7 @@ Possession:
 
 
 ### Uncomon - 
-- __Armed Bag__
+- ##### Armed Bag
 Possesion: Trognak
 
  *"A bag made out of the dehydrated head of a monstrous elk with human arms instead of antlers. After the head was removed, the latent magic in the creature remained, creating what seems to be an extra dimensional space inside the head."*
@@ -80,8 +80,8 @@ Possession: Sirona
 
 ---
 
-- __Feywild Shard, A__
-Possession: ~~Wander~~
+- ~~__Feywild Shard, A__~~
+Possession: Wander
 
  *" This warm crystal glints with the sunset colors of the Feywild sky and evokes whispers of emotional memory."*
  
@@ -102,8 +102,8 @@ Possession: Wander
 
 ---
 
-- __Harvest, A__
-Possession: Sirona
+- ##### Harvest, A
+Possession: [[Sirona Elffire]]Sirona
 
  *" This classic farmer's heirloom depicts wheat and field designs."* 
  
