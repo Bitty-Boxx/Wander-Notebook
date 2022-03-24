@@ -7,9 +7,10 @@
         "id": "d5903622669c9b4c",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Artificer Worshop/Invention Ideas.md"
+            "file": "Character Profiles/Sirona Elffire.md",
+            "mode": "source"
           }
         }
       }
@@ -67,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificer Worshop/Invention Ideas.md",
+                "file": "Character Profiles/Sirona Elffire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,8 +88,8 @@
   },
   "active": "d5903622669c9b4c",
   "lastOpenFiles": [
-    "Artificer Worshop/Invention Ideas.md",
     "Character Profiles/Sirona Elffire.md",
+    "Artificer Worshop/Invention Ideas.md",
     "Character Profiles/Wander & Anin.md",
     "Character Profiles/Trognak.md",
     "Adventure Records/Quests/Questing Index.md",
