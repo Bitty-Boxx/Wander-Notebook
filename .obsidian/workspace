@@ -7,8 +7,11 @@
         "id": "462c5c557f12bb17",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Adventure Records/Session Records/Session 39 -.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Adventure Records/Session Records/Session 39 -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,5 +87,12 @@
     "collapsed": true
   },
   "active": "462c5c557f12bb17",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Adventure Records/Session Records/Session 39 -.md",
+    "Adventure Records/Session Records/Session 38 - No Dancing in the Dark.md",
+    "Character Profiles/Sirona Elffire.md",
+    "Character Profiles/Trognak.md",
+    "Character Profiles/Wander & Anin.md",
+    "Lingering Questions.md"
+  ]
 }
