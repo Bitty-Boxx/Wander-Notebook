@@ -56,4 +56,4 @@ Silvane and Master Thornebon, Nimbus
 
 : Dirt codes and stuff
 
-: Gilly and Blevins have a night in the inn 
+: Gilly and Blevins have a night in the inn :)
