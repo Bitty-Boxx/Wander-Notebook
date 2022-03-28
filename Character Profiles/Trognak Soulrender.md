@@ -1,6 +1,10 @@
+---
+aliases: [Trognak, Frank]
+---
+
 # 
  
-Aliases: 
+Aliases: Frank Openhow
 Age: 
 Type/Race: 
 Class/Subclass: 

@@ -1,6 +1,10 @@
+---
+aliases: [Leo, Galileo]
+---
+
 # Leo Diedriedrich
  
-Aliases: 
+Aliases: Wiz Kid (Anin), Little Lord of Lightning (Oris), Galileo (Actual Name)
 Age: 
 Type/Race: 
 Class/Subclass: 

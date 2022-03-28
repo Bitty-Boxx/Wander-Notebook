@@ -1,3 +1,7 @@
+---
+aliases: [Gilly]
+---
+
 # 
  
 Aliases: 

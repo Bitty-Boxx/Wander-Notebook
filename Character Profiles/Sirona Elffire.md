@@ -1,4 +1,8 @@
- # Sirona Elffire
+---
+aliases: [Sirona]
+---
+
+# Sirona Elffire
  
 Aliases: Ms. Hero (Anin)
 Age: 25
@@ -10,7 +14,7 @@ Personality: Heroic, Stalwart, Stubborn, Anxious, "Hippy-dippy"
 Alignment: Lawful Good
 
 ### Personal Characteristics:
-*Sirona is probably the bulkiest person we've come across on our travel that hasn't trried to catch or kill us. Despite the fearsome looking scar and sort of gloomy aura to her, she's about the the most pleasant person we've come across so far over the year. That being said, she's also very... insistent and wouldn't let me leave the room until after a bunch of "check-ups" she called them. Anin seems fine enough with her (through the several arguments); though, he says there's something else with her, like a deep sadness. - Log #*
+*Sirona is probably the most interesting person we've come across on our journey that hasn't tried to catch or kill us. Despite the fearsome looking scar and sort of gloomy aura to her, she's about the the most pleasant person we've come across so far over the year. That being said, she's also very... insistent and wouldn't let me leave the room until after a bunch of "check-ups" she called them. Anin seems fine enough with her, despite the numerous arguments; though, he also says there's something else with her, like a deep sadness. - Log #54*
 
 Sirona is a human who towers at about 6' 9". Adding to her height, she also sports a built form, dark brown hair, and a ghastly facial scar which gives her a formidable presence in comparison to Wander. Despite this, her eyes are nice emerald green, which become emphasized during her lighter moments. 
 In contrast to her frequent gloomy aura, she has an optimistic side to her that srives to help people, though she can also be very dogged in her approaches. 

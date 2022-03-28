@@ -1,6 +1,10 @@
+---
+aliases: [W/A]
+---
+
 # 
  
-Aliases: 
+Aliases:
 Age: 
 Type/Race: 
 Class/Subclass: 
@@ -16,6 +20,7 @@ Alignment:
 
 ### Affiliations:
 Relations: 
++ [[Sirona Elffire|Sirona]]
 
 Connections:
 
