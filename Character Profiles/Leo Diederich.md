@@ -5,7 +5,7 @@ aliases: [Leo, Galileo]
 # Leo Diedriedrich
  
 Aliases: Wiz Kid (Anin), Little Lord of Lightning (Oris), Galileo (Actual Name)
-Age: 
+Age: 22
 Type/Race: 
 Class/Subclass: 
 Origin: 

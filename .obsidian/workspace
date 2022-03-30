@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Character Profiles/Sirona Elffire.md",
-            "mode": "preview"
+            "file": "Cirque De Vendico.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Profiles/Sirona Elffire.md",
+                "file": "Cirque De Vendico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "d5903622669c9b4c",
   "lastOpenFiles": [
-    "Character Profiles/Sirona Elffire.md",
-    "Character Profiles/Wander & Anin.md",
-    "Character Profiles/Trognak Soulrender.md",
-    "Character Profiles/Lilith.md",
-    "Character Profiles/Leo Diederich.md",
-    "Character Profiles/Ham Sandypants.md",
-    "Character Profiles/Gilly Goldenjoy.md",
     "Cirque De Vendico.md",
-    "Character Profiles/NPCs/Nimbus.md",
-    "Character Profiles/NPCs/Silvane.md"
+    "Adventure Records/Groups, Factions, and Orgs Index.md",
+    "Character Profiles/Sirona Elffire.md",
+    "Character Profiles/Ham Sandypants.md",
+    "Character Profiles/Leo Diederich.md",
+    "Character Profiles/Lilith.md",
+    "Character Profiles/Trognak Soulrender.md",
+    "Character Profiles/Gilly Goldenjoy.md",
+    "Character Profiles/Wander & Anin.md",
+    "Character Profiles/NPCs/Nimbus.md"
   ]
 }

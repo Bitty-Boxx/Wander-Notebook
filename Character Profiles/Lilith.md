@@ -5,7 +5,7 @@ aliases: [Lilith]
 # 
  
 Aliases: 
-Age: 
+Age: 18
 Type/Race: 
 Class/Subclass: 
 Origin: 
