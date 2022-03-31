@@ -4,7 +4,7 @@ aliases: [Ham]
 
 # 
  
-Aliases: 
+Aliases: Beef Dirtyshirt
 Age: 
 Type/Race: 
 Class/Subclass: 

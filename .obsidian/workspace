@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Character Profiles/Sirona Elffire.md",
-            "mode": "preview"
+            "file": "Character Profiles/Gilly Goldenjoy.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Profiles/Sirona Elffire.md",
+                "file": "Character Profiles/Gilly Goldenjoy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "77dd15ba33537fb4",
   "lastOpenFiles": [
+    "Character Profiles/Gilly Goldenjoy.md",
     "Character Profiles/Sirona Elffire.md",
-    "Adventure Records/Groups and Orgs/Groups, Factions, and Orgs Index.md",
     "Character Profiles/Lilith.md",
-    "Adventure Records/Groups and Orgs/Groups and Orgs Template.md",
+    "Character Profiles/Ham Sandypants.md",
+    "Character Profiles/Trognak Soulrender.md",
+    "Character Profiles/Wander & Anin.md",
     "Adventure Records/Groups and Orgs/Cirque De Vendico.md",
-    "Adventure Records/Quests/Quest List.md",
-    "Jot-downs.md",
-    "Character Profiles/NPCs/Silvane.md",
-    "Adventure Records/Session Records/Session 39 - Salvaging the Night.md",
-    "Character Profiles/Gilly Goldenjoy.md"
+    "Character Profiles/Leo Diederich.md",
+    "Adventure Records/Groups and Orgs/Groups, Factions, and Orgs Index.md",
+    "Adventure Records/Groups and Orgs/Groups and Orgs Template.md"
   ]
 }

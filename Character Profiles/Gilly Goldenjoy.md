@@ -6,14 +6,16 @@ aliases: [Gilly]
  
 Aliases: Spikeball (Anin)
 Age: 18
+Height: 
 Type/Race: Dwarf
 Class/Subclass: Barbarian - Battlerager
 Origin: Fillthar
-Personality: 
-Alignment: 
+Personality: Cheerful, Caring, Stalwart
+Alignment: Neutral Good
 
 ### Personal Characteristics:
 
+Gilly is a robustly built dwarf packed into a terrifying ball of spikes. Contrasting with her usual cautionary 
 
 ### Bio:
 
