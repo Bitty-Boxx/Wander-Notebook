@@ -1,6 +1,5 @@
-
-
-: + Studded leather armor equipped 
+: Making preparations, the party bumps into Rhuz
+: After 
 : "In time, one of you will have to make a terrible choice. In that moment, I will be there to give you what you need most, time." - a warning from Rhuz's possession
 
 : The party heads to the party
@@ -8,10 +7,6 @@
 : The festivity begins
 : The Kenku start their speech and presentation
 : Lilth talks to a tiefling
-
-: Pepe has peacock mask
-: Elf in goggles mask
-	: Talks about cockeye
 	
 : Halfling with one-eyed snake mask (sexual joke)
 	: seems immature
