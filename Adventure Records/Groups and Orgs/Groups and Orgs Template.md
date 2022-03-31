@@ -4,6 +4,7 @@
 # (Insert Name)
 
 ## Info
+Structure: 
 Type: 
 Status: 
 Base Locale: 
