@@ -34,4 +34,5 @@ Alongside two other gods, [[Red]] and [[Moenbryda]], the group journeys to gain 
 + [[Robinefell's Court]]
 
 ### Goals
-(Insert List)
+- [[Defeat Oris]]
+- [[Cease the War]]

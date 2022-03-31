@@ -4,7 +4,7 @@ aliases: [Sirona]
 
 # Sirona Elffire
  
-Aliases: Ms. Hero (Anin)
+Aliases: Hero (Anin)
 Age: 25
 Height: 6' 9"
 Type/Race: Aasimar (Human-passing), Celestial
@@ -26,8 +26,6 @@ During a fight, she revealed that she had the ability to sprout radient angelic 
 Sirona spent her earlier years in Ashgore as part of the Elffire estate, one of the noble families that dedicated themselves as healers to the people. When not in the major city, they traveled the continent to lend aid during illnesses and pandemics. Sirona has said her family took pride in their work and duty to those around them, describing them fondly as "hippy-dippy".
 
 In the wake of [[the Boom]] and the onset of war, her world began to descend. The peaceful atmosphere changed to grim tidings and bitter bloodthirst. Jericho, her older cousin, was drafted into the war without her knowing and absconded from her. Afterwards, Tallulah, her other cousin, made journey for [[Ioto]], but never returned or was heard from since. While neighbors, peers, and the people of Ashgore encouraged the war, her family, especially her parents, stood rooted on their stance against the war, even actively discouraging it. Their opposition, formational to Sirona, would ultimately cost them their lives, as the people of Ashgore and unknown conspirators amognst the nobles massacred the Elffires and left the estate scorched. Sirona, assumed dead, was not pursued and escaped into hiding. 
-
-
 
 
 ### Affiliations:

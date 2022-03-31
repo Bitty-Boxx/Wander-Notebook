@@ -5,7 +5,7 @@ aliases: [Trognak, Frank]
 # 
  
 Aliases: Frank Openhow
-Age: 25
+Age: 26
 Type/Race: 
 Class/Subclass: 
 Origin: 

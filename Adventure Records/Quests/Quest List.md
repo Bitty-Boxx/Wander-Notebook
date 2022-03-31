@@ -1,4 +1,8 @@
 # Quest List
+## Grand Quests
+- [ ] [[Defeat Oris]]
+- [ ] [[Cease the War]]
+
 ### Ashgore - 
 - [x] Escort to Dirtmouth
 - [ ] Visit and investigate Leh'Mon'yon

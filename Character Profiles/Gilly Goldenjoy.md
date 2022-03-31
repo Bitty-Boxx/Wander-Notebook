@@ -2,9 +2,9 @@
 aliases: [Gilly]
 ---
 
-# 
+# Gilly Goldenjoy
  
-Aliases: 
+Aliases: Spikeball (Anin)
 Age: 18
 Type/Race: 
 Class/Subclass: 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cirque De Vendico.md",
+            "file": "Character Profiles/Trognak Soulrender.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cirque De Vendico.md",
+                "file": "Character Profiles/Trognak Soulrender.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "d5903622669c9b4c",
   "lastOpenFiles": [
+    "Character Profiles/Trognak Soulrender.md",
+    "Character Profiles/Gilly Goldenjoy.md",
     "Cirque De Vendico.md",
-    "Adventure Records/Groups and Orgs/Groups, Factions, and Orgs Index.md",
-    "Adventure Records/Groups and Orgs/Groups and Orgs Template.md",
     "Character Profiles/Wander & Anin.md",
     "Character Profiles/Sirona Elffire.md",
-    "Party Inventory.md",
-    "Jot-downs.md",
-    "Lingering Questions.md",
-    "Character Profiles/Trognak Soulrender.md",
-    "Character Profiles/Ham Sandypants.md"
+    "Adventure Records/Quests/Quest List.md",
+    "Adventure Records/Quests/Questing Index.md",
+    "Adventure Records/Groups and Orgs/Groups, Factions, and Orgs Index.md",
+    "Adventure Records/Groups and Orgs/Groups and Orgs Template.md",
+    "Party Inventory.md"
   ]
 }
