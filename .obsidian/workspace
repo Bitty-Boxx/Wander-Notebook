@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "1ce97222665eb5e7",
+    "id": "6e5096aa0edbe920",
     "type": "split",
     "children": [
       {
-        "id": "77dd15ba33537fb4",
+        "id": "d5903622669c9b4c",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -18,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "70ab2e62c2c088a6",
+    "id": "1087c9285acf1b13",
     "type": "split",
     "children": [
       {
-        "id": "7e0e98a3c97ee148",
+        "id": "6e5505e86821932f",
         "type": "tabs",
         "children": [
           {
-            "id": "40d0aa09787eb08e",
+            "id": "94585b23bf21b0eb",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,7 +34,7 @@
             }
           },
           {
-            "id": "9a5e673045319778",
+            "id": "448ef7ea9575cd2a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -55,15 +55,15 @@
     "width": 300
   },
   "right": {
-    "id": "cc0ece9847c72218",
+    "id": "df7ed5c22c4fbd42",
     "type": "split",
     "children": [
       {
-        "id": "a2146d4b13d56923",
+        "id": "2f7db7ae599cb3f7",
         "type": "tabs",
         "children": [
           {
-            "id": "83782db07b50f766",
+            "id": "d146e67f4d8ee50f",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -78,34 +78,25 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "5f4d1757855492d5",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "77dd15ba33537fb4",
+  "active": "d5903622669c9b4c",
   "lastOpenFiles": [
     "Character Profiles/Gilly Goldenjoy.md",
-    "Character Profiles/Sirona Elffire.md",
-    "Character Profiles/Lilith.md",
     "Character Profiles/Ham Sandypants.md",
-    "Character Profiles/Trognak Soulrender.md",
-    "Character Profiles/Wander & Anin.md",
-    "Adventure Records/Groups and Orgs/Cirque De Vendico.md",
     "Character Profiles/Leo Diederich.md",
+    "Character Profiles/Sirona Elffire.md",
+    "Character Profiles/Trognak Soulrender.md",
+    "Character Profiles/Lilith.md",
     "Adventure Records/Groups and Orgs/Groups, Factions, and Orgs Index.md",
-    "Adventure Records/Groups and Orgs/Groups and Orgs Template.md"
+    "Adventure Records/Groups and Orgs/Groups and Orgs Template.md",
+    "Cirque De Vendico.md",
+    "Character Profiles/Wander & Anin.md"
   ]
 }

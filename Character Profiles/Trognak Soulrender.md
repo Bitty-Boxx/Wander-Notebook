@@ -4,7 +4,7 @@ aliases: [Trognak, Frank]
 
 # 
  
-Aliases: Frank Openhow
+Aliases: Blue Man Group (Anin), Frank Openhow
 Age: 26
 Type/Race: 
 Class/Subclass: 

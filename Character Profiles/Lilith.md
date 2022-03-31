@@ -4,7 +4,7 @@ aliases: [Lilith]
 
 # 
  
-Aliases: 
+Aliases: Beast Girl (Anin)
 Age: 18
 Type/Race: 
 Class/Subclass: 
