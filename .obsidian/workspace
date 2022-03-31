@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "6e5096aa0edbe920",
+    "id": "1ce97222665eb5e7",
     "type": "split",
     "children": [
       {
-        "id": "d5903622669c9b4c",
+        "id": "77dd15ba33537fb4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Character Profiles/Trognak Soulrender.md",
+            "file": "Adventure Records/Groups and Orgs/Groups, Factions, and Orgs Index.md",
             "mode": "source"
           }
         }
@@ -18,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "1087c9285acf1b13",
+    "id": "70ab2e62c2c088a6",
     "type": "split",
     "children": [
       {
-        "id": "6e5505e86821932f",
+        "id": "7e0e98a3c97ee148",
         "type": "tabs",
         "children": [
           {
-            "id": "94585b23bf21b0eb",
+            "id": "40d0aa09787eb08e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,7 +34,7 @@
             }
           },
           {
-            "id": "448ef7ea9575cd2a",
+            "id": "9a5e673045319778",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -55,20 +55,20 @@
     "width": 300
   },
   "right": {
-    "id": "df7ed5c22c4fbd42",
+    "id": "cc0ece9847c72218",
     "type": "split",
     "children": [
       {
-        "id": "2f7db7ae599cb3f7",
+        "id": "a2146d4b13d56923",
         "type": "tabs",
         "children": [
           {
-            "id": "d146e67f4d8ee50f",
+            "id": "83782db07b50f766",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Profiles/Trognak Soulrender.md",
+                "file": "Adventure Records/Groups and Orgs/Groups, Factions, and Orgs Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -78,25 +78,34 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "5f4d1757855492d5",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "d5903622669c9b4c",
+  "active": "77dd15ba33537fb4",
   "lastOpenFiles": [
-    "Character Profiles/Trognak Soulrender.md",
-    "Character Profiles/Gilly Goldenjoy.md",
-    "Cirque De Vendico.md",
-    "Character Profiles/Wander & Anin.md",
-    "Character Profiles/Sirona Elffire.md",
-    "Adventure Records/Quests/Quest List.md",
-    "Adventure Records/Quests/Questing Index.md",
     "Adventure Records/Groups and Orgs/Groups, Factions, and Orgs Index.md",
     "Adventure Records/Groups and Orgs/Groups and Orgs Template.md",
-    "Party Inventory.md"
+    "Adventure Records/Groups and Orgs/Cirque De Vendico.md",
+    "Character Profiles/Sirona Elffire.md",
+    "Adventure Records/Quests/Quest List.md",
+    "Jot-downs.md",
+    "Character Profiles/NPCs/Silvane.md",
+    "Adventure Records/Session Records/Session 39 - Salvaging the Night.md",
+    "Character Profiles/Gilly Goldenjoy.md",
+    "Character Profiles/Leo Diederich.md"
   ]
 }

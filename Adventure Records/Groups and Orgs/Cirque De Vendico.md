@@ -13,7 +13,7 @@ Base Locale: Fluke (Loosely)
 ### Notable Members
 + [[Wander & Anin]]
 + [[Ham Sandypants]]
-+ [[Sirona Elffire]] - De Facto Leader
++ [[Sirona Elffire]] - Healer, De Facto Leader
 + [[Lilith]]
 + [[Trognak Soulrender]]
 + [[Leo Diederich]]
@@ -28,6 +28,9 @@ After the events of the Battle for Fluke, the group gained firsthand knowledge t
 Alongside two other gods, [[Red]] and [[Moenbryda]], the group journeys to gain power to defeat Oris, and possibly even end the war.
 
 ### Affiliations
+Allegiances:
+
+Alliances:
 + [[Sheriff Duke]]
 + [[Moenbryda]]
 + [[Red]]

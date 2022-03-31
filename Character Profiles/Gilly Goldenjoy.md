@@ -6,9 +6,9 @@ aliases: [Gilly]
  
 Aliases: Spikeball (Anin)
 Age: 18
-Type/Race: 
-Class/Subclass: 
-Origin: 
+Type/Race: Dwarf
+Class/Subclass: Barbarian - Battlerager
+Origin: Fillthar
 Personality: 
 Alignment: 
 

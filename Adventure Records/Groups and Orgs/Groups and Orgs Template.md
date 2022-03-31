@@ -18,7 +18,11 @@ Formed in:
 (Insert Text)
 
 ### Affiliations
-(Insert List)
+Allegiances:
+(Insert Text)
 
-### Goals
+Alliances:
+(Insert Text)
+
+### Known Goals
 (Insert List)
