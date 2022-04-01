@@ -11,13 +11,13 @@ Status: Active
 Base Locale: Fluke (Loosely)
 
 ### Notable Members
-+ [[Wander & Anin]]
-+ [[Ham Sandypants]]
-+ [[Sirona Elffire]] - Healer, De Facto Leader
-+ [[Lilith]]
-+ [[Trognak Soulrender]]
-+ [[Leo Diederich]]
-+ [[Gilly Goldenjoy]]
++ [[Wander & Anin]] - The Technician
++ [[Ham Sandypants]] - The Wild Card
++ [[Sirona Elffire]] - The Healer, De Facto Leader
++ [[Lilith]] - 
++ [[Trognak Soulrender]] - The Big Hitter
++ [[Leo Diederich]] - The Magician
++ [[Gilly Goldenjoy]] - The Tiny Tank
 
 ### Origins
 Formed in: Fluke
