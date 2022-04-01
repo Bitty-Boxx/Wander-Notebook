@@ -14,7 +14,7 @@ Base Locale: Fluke (Loosely)
 + [[Wander & Anin]] - The Technician
 + [[Ham Sandypants]] - The Wild Card
 + [[Sirona Elffire]] - The Healer, De Facto Leader
-+ [[Lilith]] - 
++ [[Lilith]] - The Naturalist
 + [[Trognak Soulrender]] - The Big Hitter
 + [[Leo Diederich]] - The Magician
 + [[Gilly Goldenjoy]] - The Tiny Tank
