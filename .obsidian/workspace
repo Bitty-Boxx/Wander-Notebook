@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Character Profiles/Ham Sandypants.md",
+            "file": "Character Profiles/Leo Diederich.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Profiles/Ham Sandypants.md",
+                "file": "Character Profiles/Leo Diederich.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,7 @@
   },
   "active": "77dd15ba33537fb4",
   "lastOpenFiles": [
+    "Character Profiles/Leo Diederich.md",
     "Character Profiles/Ham Sandypants.md",
     "Adventure Records/Groups and Orgs/Cirque De Vendico.md",
     "Character Profiles/Gilly Goldenjoy.md",
@@ -105,7 +106,6 @@
     "Character Profiles/Sirona Elffire.md",
     "Character Profiles/Wander & Anin.md",
     "Character Profiles/Trognak Soulrender.md",
-    "Character Profiles/Lilith.md",
-    "Character Profiles/Leo Diederich.md"
+    "Character Profiles/Lilith.md"
   ]
 }
