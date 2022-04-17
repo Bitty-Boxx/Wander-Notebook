@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Character Profiles/Leo Diederich.md",
+            "file": "Adventure Records/Session Records/Session 40.5 - Peasent Time.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Profiles/Leo Diederich.md",
+                "file": "Adventure Records/Session Records/Session 40.5 - Peasent Time.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,8 @@
   },
   "active": "77dd15ba33537fb4",
   "lastOpenFiles": [
+    "Adventure Records/Session Records/Session 40.5 - Peasent Time.md",
+    "Adventure Records/Session Records/Session 39 - Salvaging the Night.md",
     "Character Profiles/Leo Diederich.md",
     "Character Profiles/Ham Sandypants.md",
     "Adventure Records/Groups and Orgs/Cirque De Vendico.md",
@@ -104,8 +106,6 @@
     "Adventure Records/Groups and Orgs/Groups and Orgs Template.md",
     "Adventure Records/Groups and Orgs/Groups, Factions, and Orgs Index.md",
     "Character Profiles/Sirona Elffire.md",
-    "Character Profiles/Wander & Anin.md",
-    "Character Profiles/Trognak Soulrender.md",
-    "Character Profiles/Lilith.md"
+    "Character Profiles/Wander & Anin.md"
   ]
 }
