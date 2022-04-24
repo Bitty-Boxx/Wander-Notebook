@@ -22,4 +22,10 @@
 	: Left in the box with the x of crows
 	
 : The party arrives to a river triton town which they stay in for the night.
-	: Ham initially tries to sneak 
+	: Ham initially tries to sneak and steal a magic item from Wander
+	: They converse a bit, and he reveals his situation
+	: Wanders gives him the item to sate the parasite
+: The party sees a troll eating a triton
+	They follow it and attempt to hinder it
+	: It works, combat time
+	
