@@ -5,6 +5,7 @@
 	: Lilith takes out her tampon and throws it onto the snowball, shrinking it
 	: Trognak comes back to his senses and with his new edurance of bleeding, takes out the snowball
 : After the fight, Wander discovers a lethal injury on Trognak
+	: Succumbing to the injury, Trognak dies
 	: Red and MB are back in view and immediately come to assist
 	: The entire party works to revive him from the dead
 : In the route to the afterlife, Trognak meets and talks with Kevdak
@@ -17,4 +18,8 @@
 	: He says that while Oris may be smart enough to set a limit to magic power, people are smart enough to break past them
 
 : The party finds a strange drawing within a box
-	: Depicts a man with an
+	: Depicts a man with an eyepatch and purple cape holding hands with a shorter, cracked being
+	: Left in the box with the x of crows
+	
+: The party arrives to a river triton town which they stay in for the night.
+	: Ham initially tries to sneak 
