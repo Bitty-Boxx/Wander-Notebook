@@ -21,7 +21,15 @@
 
 : Meanwhile, the party finds themselves in the cave behind the waterfall
 	: They fight the ice troll from earlier and then continue
+	: They fight even more tolls at the second area
+: After resting, Sirona sees that MB is having some trouble 
 
 : Ask about the stones
 : Ask about a woman named Mauve
 Ask about finding information on artifacts
+
+: Ickabod mentions not seeing warforged since they were outlawed
+	: Ickabod tells Wander they are seeking information to grow their hoard after the rest were banished
+	: Wander agrees, but in exchange for the status of Mauve, which is agreed
+	: Wander tells them about the finding out about dragons at the sunken temple
+	: 
