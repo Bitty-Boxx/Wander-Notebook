@@ -11,3 +11,17 @@ Building a shield and adding infusion:
 
 Notes: 
 + Look into modifying wisp cloak with cloak of protection buff
+
+Armor Plan:
++ Half - plate; 15 AC
+	+ Mithril; stealth debuff negation
++ Warforged; +1 AC
++ Dex; +2 AC
++ Defense infusion; +1 AC, +2 AC (lvl 10)
++ Shield; +2 AC
+	+ Repulsion shield; +1 AC
+	+ Adamantine; crit negation
++ Ring of protection; +1 AC
++ Cloak of protection; +1 AC
+-- AC Total: 15 + 1 + 2 + 1(2) + 2(3) + 1 + 1 = 23(25)
+-- Armor Statuses: Crit negation, stealth debuff negation

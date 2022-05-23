@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Character Profiles/NPCs/MUntitled.md",
+            "file": "Artificer Worshop/Build Ideas.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Profiles/NPCs/MUntitled.md",
+                "file": "Artificer Worshop/Build Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,7 @@
   },
   "active": "77dd15ba33537fb4",
   "lastOpenFiles": [
+    "Artificer Worshop/Build Ideas.md",
     "Character Profiles/NPCs/MUntitled.md",
     "Party Inventory.md",
     "Character Profiles/NPCs/Silvane.md",
@@ -105,7 +106,6 @@
     "Adventure Records/Session Records/Session 42 -.md",
     "Adventure Records/Session Records/Session 41 -.md",
     "Adventure Records/Groups and Orgs/Cirque De Vendico.md",
-    "Adventure Records/Groups and Orgs/Groups and Orgs Template.md",
-    "Adventure Records/Session Records/Session 40.5 - Peasent Time.md"
+    "Adventure Records/Groups and Orgs/Groups and Orgs Template.md"
   ]
 }
