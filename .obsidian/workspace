@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Artificer Worshop/Build Ideas.md",
+            "file": "Adventure Records/Personal Interests.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificer Worshop/Build Ideas.md",
+                "file": "Adventure Records/Personal Interests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "77dd15ba33537fb4",
   "lastOpenFiles": [
-    "Artificer Worshop/Build Ideas.md",
-    "Character Profiles/NPCs/MUntitled.md",
+    "Adventure Records/Personal Interests.md",
+    "Artificer Worshop/Invention Ideas.md",
+    "Adventure Records/Threat Index.md",
     "Party Inventory.md",
+    "Lingering Questions.md",
+    "Jot-downs.md",
+    "Character Profiles/Gilly Goldenjoy.md",
     "Character Profiles/NPCs/Silvane.md",
-    "Character Profiles/NPCs/Nimbus.md",
-    "Adventure Records/Session Records/Session 43 -.md",
-    "Adventure Records/Session Records/Session 42 -.md",
-    "Adventure Records/Session Records/Session 41 -.md",
-    "Adventure Records/Groups and Orgs/Cirque De Vendico.md",
-    "Adventure Records/Groups and Orgs/Groups and Orgs Template.md"
+    "Character Profiles/Ham Sandypants.md",
+    "Character Profiles/Leo Diederich.md"
   ]
 }

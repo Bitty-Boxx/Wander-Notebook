@@ -14,7 +14,8 @@
 - [ ] Petition to Uldah Alliance
 - [x] Give Holly's letter to Robinfell
 - [ ] Accompany Robinfell to the Midsummer Masquerade
-- [ ] Find the adamantine mines
+- [ ] Find $ search the adamantine mines 
+- [ ] Find & search the mithril mines
 
 ### Tyr - 
 - [ ] Visit to Rothmiral 

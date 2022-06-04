@@ -9,13 +9,13 @@
 	: Red and MB are back in view and immediately come to assist
 	: The entire party works to revive him from the dead
 : In the route to the afterlife, Trognak meets and talks with Kevdak
-	: After a bit and an embrace, Trognak gets pushed down the mountain back to reality
+	: After a bit and an embrace, Trognak gets pushed down the mountain back to realm of the living
 
 : Red discusses the planes; the upper planes, the lower planes, and the parallel planes
 	: He says all of these are contained in a "box" we would call the universe
 		: Red says the snowball was from "outside" the box
 	: Red says his specialty was the parallel, MB the upper, and Oris the lower
-	: He says that while Oris may be smart enough to set a limit to magic power, people are smart enough to break past them
+	: He says that while Oris may be smart enough to set a limit to magic power, people are smart enough to break past them, including from in and out of the box
 
 : The party finds a strange drawing within a box
 	: Depicts a man with an eyepatch and purple cape holding hands with a shorter, cracked being
