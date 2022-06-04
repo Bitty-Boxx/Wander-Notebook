@@ -2,7 +2,7 @@
 - [ ] Figure out the past
 - [ ] Solve disconnect with Anin
 - [ ] Investigate and decipher the Cryptic Journal
-- [x] Construct MB's instrument
+- [x] Construct MB's instrumentI**
 - [x] Constuct the Exra-D Backpack
 - [ ] Find the Whistlesprings Mechagnomes
 - [ ] Fix Wanderlust
