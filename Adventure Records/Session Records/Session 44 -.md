@@ -40,3 +40,7 @@ Apologies for long wait, developments in Filthar, hostile contact with grand mag
 
 : Sending spell shenanigins
 
+: So much relationship chaos
+	: "Cast cum"
+	: Rock jazz
+	: Gilly, Leo, and Ham katamari ball with Wander running on top 
