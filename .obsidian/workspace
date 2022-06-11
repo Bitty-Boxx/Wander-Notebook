@@ -9,7 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Adventure Records/Session Records/Session 44 -.md",
+            "file": "Adventure Records/Session Records/Session 45 -.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "5e03f8d962d98d0d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Artificer Worshop/Material Inventory.md",
             "mode": "source"
           }
         }
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventure Records/Session Records/Session 44 -.md",
+                "file": "Adventure Records/Session Records/Session 45 -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +108,15 @@
   },
   "active": "77dd15ba33537fb4",
   "lastOpenFiles": [
+    "Adventure Records/Session Records/Session 45 -.md",
+    "Artificer Worshop/Material Inventory.md",
+    "Party Inventory.md",
     "Adventure Records/Session Records/Session 44 -.md",
     "Adventure Records/Session Records/Session 43 -.md",
     "Adventure Records/Session Records/Session 39 - Salvaging the Night.md",
     "Adventure Records/Session Records/Session 42 - Treacherous Trolls.md",
     "Adventure Records/Session Records/Session 40.5 - Peasent Time.md",
     "Adventure Records/Session Records/Session 41 - Purity from Beyond.md",
-    "Adventure Records/Session Records/Session 0.5 (Solo) - How to Hunt.md",
-    "Adventure Records/Session Records/Session 1 - Fluke Encounters.md",
-    "Adventure Records/Session Records/Session 8 - Skrunk Crew.md",
-    "Adventure Records/Session Records/Session 5 - Enter First Structure, Mound Dome.md"
+    "Adventure Records/Session Records/Session 0.5 (Solo) - How to Hunt.md"
   ]
 }
