@@ -4,4 +4,7 @@
 : Next day, the party explores the mithril mine
 	: Trognak rushes ahead
 	: Party finds the mithril stockpile within the mile
-	: The stockpile 
+	: The stockpile turns out to be a mithril metallic dragon, crazed
+		: Battle ensues
+
+: After the battle, 
