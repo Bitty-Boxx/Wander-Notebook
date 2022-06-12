@@ -3,4 +3,5 @@
 
 : Next day, the party explores the mithril mine
 	: Trognak rushes ahead
-	: Party finds
+	: Party finds the mithril stockpile within the mile
+	: The stockpile 
