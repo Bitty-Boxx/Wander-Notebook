@@ -7,4 +7,4 @@
 	: The stockpile turns out to be a mithril metallic dragon, crazed
 		: Battle ensues
 
-: After the battle, 
+: After the battle, g
