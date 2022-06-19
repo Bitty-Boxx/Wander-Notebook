@@ -1,1 +1,1 @@
-: 
+: The church lets the 
