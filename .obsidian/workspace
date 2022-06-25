@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Adventure Records/Session Records/Session 46 -.md",
+            "file": "Adventure Records/Session Records/Session 47 -.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventure Records/Session Records/Session 46 -.md",
+                "file": "Adventure Records/Session Records/Session 47 -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,7 @@
   },
   "active": "77dd15ba33537fb4",
   "lastOpenFiles": [
+    "Adventure Records/Session Records/Session 47 -.md",
     "Adventure Records/Session Records/Session 46 -.md",
     "Character Profiles/NPCs/Oscar Goldenjoy.md",
     "Character Profiles/NPCs/0 - NPC Template.md",
@@ -105,7 +106,6 @@
     "Character Profiles/Sirona Elffire.md",
     "Character Profiles/NPCs/Untitled.md",
     "Character Profiles/NPCs/Nimbus.md",
-    "Character Profiles/NPCs/Silvane.md",
-    "Adventure Records/Session Records/Session 44 -.md"
+    "Character Profiles/NPCs/Silvane.md"
   ]
 }
