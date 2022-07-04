@@ -1,3 +1,4 @@
+: Some pre-Ichabod stuff
 : Leo uses sending to talk to some NPCs
 	: Sends one to Reggie... and gets a more affirmative reply to keep him updated on the mission
 	: Sends one to Dave and gets a reply
@@ -23,6 +24,7 @@
 	: They fight the ice troll from earlier and then continue
 	: They fight even more tolls at the second area
 : After resting, Sirona sees that MB is having some trouble 
+	: MB brushes it off a bit as the party enters the domain
 
 : Ask about the stones
 : Ask about a woman named Mauve
@@ -31,5 +33,6 @@ Ask about finding information on artifacts
 : Ickabod mentions not seeing warforged since they were outlawed
 	: Ickabod tells Wander they are seeking information to grow their hoard after the rest were banished
 	: Wander agrees, but in exchange for the status of Mauve, which is agreed
-	: Wander tells them about the finding out about dragons at the sunken temple
-	: 
+	: Wander tells them about finding out about dragons at the sunken temple
+	: Ichabod reacts somewhat knowingly and proceeds to search for something in their horde
+	: The Party enters and Ichabod greets them as "the Seven"

@@ -1,7 +1,7 @@
 : The dragon offers a game, an exchange of worthwhile info
-	: First 
+	: If they are told something interesting, they'll share something interesting
 	
-: Wander recals things of use
+: Wander recalls things of use
 	: Memory of sitting on the throne
 	: The scientist Wander woke up to see
 	: The sepulchur and the ruins in the West
