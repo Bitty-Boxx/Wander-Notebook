@@ -7,7 +7,11 @@
 	: Sirona, Lilith, and Wander get back to the nursing home
 	: Lilith and Sirona cast the spell on Ioun, who immediately stands up and reveals a hidden goliath
 
-: 
-	: Rules to Nowhere
-	: To open the door, the door must be open from both sides. It must also be opened by his blood
-	: 
+: Ioun 
+	: Rules to the Nowhere King
+		: To open the door, the door must be open from both sides. It must also be opened by his blood
+	:  Some talk-no-jutsu over chess, war, and the cruel nature of the commander
+	: Prompted by mentioning Robinfell, Ioun talks about the first king of Ashgore King Alphino ordering the extermination of the orcs in Ashgore for the death of his family
+	
+	
+	
