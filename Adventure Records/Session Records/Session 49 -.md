@@ -13,5 +13,4 @@
 	:  Some talk-no-jutsu over chess, war, and the cruel nature of the commander
 	: Prompted by mentioning Robinfell, Ioun talks about the first king of Ashgore King Alphino ordering the extermination of the orcs in Ashgore for the death of his family
 	
-	
-	
+: Gained Marble Pawn
