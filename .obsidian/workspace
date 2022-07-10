@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Adventure Records/Session Records/Session 47 -.md",
+            "file": "Adventure Records/Session Records/Session 49 -.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350
+    "width": 320
   },
   "right": {
     "id": "cc0ece9847c72218",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventure Records/Session Records/Session 47 -.md",
+                "file": "Adventure Records/Session Records/Session 49 -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,7 @@
   },
   "active": "77dd15ba33537fb4",
   "lastOpenFiles": [
+    "Adventure Records/Session Records/Session 49 -.md",
     "Adventure Records/Session Records/Session 47 -.md",
     "Adventure Records/Session Records/Session 48 -.md",
     "Adventure Records/Session Records/Session 46 - Home, Bittersweet Home.md",
@@ -105,7 +106,6 @@
     "Adventure Records/Session Records/Session 43 - On a New Scale.md",
     "Artificer Worshop/Invention Ideas.md",
     "Artificer Worshop/Build Ideas.md",
-    "Adventure Records/Session Records/Session 22 - Arrestive Nightmare.md",
-    "Character Profiles/NPCs/Oscar Goldenjoy.md"
+    "Adventure Records/Session Records/Session 22 - Arrestive Nightmare.md"
   ]
 }
