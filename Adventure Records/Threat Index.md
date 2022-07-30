@@ -40,3 +40,5 @@
 + Ramuh
 + Spicier Chicken
 + Grand Succubi
++ Houston Goliaths
++ Ichorsaurusi

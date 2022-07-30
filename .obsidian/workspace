@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Adventure Records/Session Records/Session 49 -.md",
-            "mode": "source"
+            "file": "Adventure Records/Session Records/Session 50 -.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventure Records/Session Records/Session 49 -.md",
+                "file": "Adventure Records/Session Records/Session 50 -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,8 @@
   },
   "active": "77dd15ba33537fb4",
   "lastOpenFiles": [
+    "Adventure Records/Threat Index.md",
+    "Adventure Records/Session Records/Session 50 -.md",
     "Adventure Records/Session Records/Session 49 -.md",
     "Adventure Records/Session Records/Session 47 -.md",
     "Adventure Records/Session Records/Session 48 -.md",
@@ -104,8 +107,6 @@
     "Adventure Records/Session Records/Session 45 - What's Mine is Mine.md",
     "Adventure Records/Session Records/Session 44 - Exchange & Confession.md",
     "Adventure Records/Session Records/Session 43 - On a New Scale.md",
-    "Artificer Worshop/Invention Ideas.md",
-    "Artificer Worshop/Build Ideas.md",
-    "Adventure Records/Session Records/Session 22 - Arrestive Nightmare.md"
+    "Artificer Worshop/Invention Ideas.md"
   ]
 }
