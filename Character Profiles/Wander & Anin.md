@@ -28,7 +28,9 @@ Organizations & Factions:
 
 
 ### Current Inventory: 
-
++ Ichorsauras tail - Mabeast fat
++ Damaged pearl
++ 
 
 ### Notes of Interests:
 
