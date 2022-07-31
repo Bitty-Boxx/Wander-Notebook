@@ -12,3 +12,9 @@
 	: Leo and Kiiphar discuss some things
 		: Leo learns of some of the other wizard's statuses
 		: Leo learns that the wizard Alvin is the grandson of Gestalt and suspects Reggie Jeggie to be his brother
+
+: The party reaches the estate
+	: Leo finds it in better condition than it was left in
+	: Leo is met by his grandfather, Solomon Diederich, a strict individual
+: Leo and Solomon talk about his adventures
+	: 
