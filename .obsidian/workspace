@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Adventure Records/Session Records/Session 50 -.md",
+            "file": "Artificer Worshop/Material Inventory.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventure Records/Session Records/Session 50 -.md",
+                "file": "Artificer Worshop/Material Inventory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "77dd15ba33537fb4",
   "lastOpenFiles": [
+    "Artificer Worshop/Loadouts.md",
+    "Adventure Records/Session Records/Session 50 -.md",
     "Character Profiles/Wander & Anin.md",
     "Party Inventory.md",
-    "Adventure Records/Session Records/Session 50 -.md",
     "Adventure Records/Threat Index.md",
     "Adventure Records/Session Records/Session 49 -.md",
     "Adventure Records/Session Records/Session 47 -.md",
     "Adventure Records/Session Records/Session 48 -.md",
     "Adventure Records/Session Records/Session 46 - Home, Bittersweet Home.md",
-    "Adventure Records/Session Records/Session 45 - What's Mine is Mine.md",
-    "Adventure Records/Session Records/Session 44 - Exchange & Confession.md"
+    "Adventure Records/Session Records/Session 45 - What's Mine is Mine.md"
   ]
 }

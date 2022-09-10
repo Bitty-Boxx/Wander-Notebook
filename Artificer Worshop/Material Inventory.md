@@ -10,4 +10,7 @@
 |         Hand Scitter         |          1          |                 |
 |           Residuam           |          3          |                 |
 |       General Supplies       |         135         |                 |
-|                              |                     |                 |
+|       Pure Silver Bars       |                     |     3000gp      |
+|       Feywild Trinkets       |          6          |                 |
+|       Shield Materials       |          1          |                 |
+|  Magic Instrument Materials  |          1          |                 |
