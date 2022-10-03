@@ -7,11 +7,9 @@
         "id": "77dd15ba33537fb4",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Party Inventory.md",
-            "mode": "preview",
-            "source": false
+            "file": "Artificer Worshop/Invention Ideas.md"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Party Inventory.md",
+                "file": "Artificer Worshop/Invention Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +96,15 @@
   },
   "active": "77dd15ba33537fb4",
   "lastOpenFiles": [
-    "Artificer Worshop/Material Inventory.md",
-    "Character Profiles/NPCs/Untitled.md",
-    "Party Inventory.md",
     "Artificer Worshop/Loadouts.md",
+    "Character Profiles/NPCs/Untitled.md",
+    "Character Profiles/NPCs/Silvane.md",
+    "Character Profiles/NPCs/Nimbus.md",
+    "Character Profiles/NPCs/MUntitled.md",
+    "Party Inventory.md",
+    "Artificer Worshop/Material Inventory.md",
     "Adventure Records/Session Records/Session 50 -.md",
     "Character Profiles/Wander & Anin.md",
-    "Adventure Records/Threat Index.md",
-    "Adventure Records/Session Records/Session 49 -.md",
-    "Adventure Records/Session Records/Session 47 -.md",
-    "Adventure Records/Session Records/Session 48 -.md"
+    "Adventure Records/Threat Index.md"
   ]
 }
