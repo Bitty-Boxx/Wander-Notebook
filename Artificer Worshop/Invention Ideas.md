@@ -6,7 +6,11 @@ kanban-plugin: basic
 
 ## # PENDING
 
-- [ ] ### Radio Petals/Tower<br>Concept:<br>+ Metal flower that can communicate with others who also hold one<br>+ Can send a message directly or by broadcast<br><br>Materials Needed: TBD
+- [ ] ### Radio Petals/Tower
+- [ ] Concept:
+- [ ] + Metal flower that can communicate with others who also hold one
+- [ ] + Can send a message directly or by broadcast
+- [ ] Materials Needed: TBD
 - [ ] ### NKU-Ba<br>Concept:<br>+ Weapon for Leo<br>+ Acts as a backup spellcasting focus as well as a weapon<br>+ Heighten lightning and thunder attacks<br><br>Materials Needed: TBD
 - [ ] ### Ichor Blight<br>Concept: <br>+ Siphons ichor from the mahbeast to utilize against Oris (or the other gods)<br>+ Seemed to have an effect on Red from the Guardian's weapons and attacks<br><br>Materials Needed: TBD
 - [ ] ### Wild Card<br>Concept: <br>+ Deck of arcane cards that shuffle once activated, card is then drawn<br>+ Drawn card produces magic property<br>+ Can't shuffle or draw another card until current one is used<br><br>Materials Needed: TBD

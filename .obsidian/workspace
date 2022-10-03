@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2251cc00e0c89fe6",
+        "id": "4fc8e39609511f2c",
         "type": "leaf",
         "state": {
           "type": "kanban",
           "state": {
-            "file": "Adventure Records/Quests/Quest Board.md"
+            "file": "Adventure Records/Quests/Questing Board.md"
           }
         }
       }
@@ -60,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320
+    "width": 196.5
   },
   "right": {
     "id": "cc0ece9847c72218",
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventure Records/Quests/Quest Board.md",
+                "file": "Adventure Records/Quests/Questing Board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,25 +95,24 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "2251cc00e0c89fe6",
+  "active": "4fc8e39609511f2c",
   "lastOpenFiles": [
-    "Adventure Records/Quests/Untitled.md",
-    "Adventure Records/Quests/Quest List.md",
+    "Adventure Records/Quests/Questing Board.md",
     "Adventure Records/Quests/Quest Board.md",
+    "Adventure Records/Quests/Quest List.md",
     "Artificer Worshop/Invention Ideas.md",
+    "Adventure Records/Quests/Untitled.md",
     "Artificer Worshop/Loadouts.md",
     "Character Profiles/NPCs/Untitled.md",
     "Character Profiles/NPCs/Silvane.md",
     "Character Profiles/NPCs/Nimbus.md",
-    "Character Profiles/NPCs/MUntitled.md",
-    "Party Inventory.md"
+    "Character Profiles/NPCs/MUntitled.md"
   ]
 }
