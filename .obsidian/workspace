@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "77dd15ba33537fb4",
+        "id": "2251cc00e0c89fe6",
         "type": "leaf",
         "state": {
           "type": "kanban",
           "state": {
-            "file": "Artificer Worshop/Invention Ideas.md"
+            "file": "Adventure Records/Quests/Quest Board.md"
           }
         }
       }
@@ -28,7 +28,7 @@
             "id": "40d0aa09787eb08e",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
+              "type": "graph",
               "state": {}
             }
           },
@@ -41,13 +41,22 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "b689a6a59f0f6c99",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -67,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificer Worshop/Invention Ideas.md",
+                "file": "Adventure Records/Quests/Quest Board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,17 +103,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "77dd15ba33537fb4",
+  "active": "2251cc00e0c89fe6",
   "lastOpenFiles": [
+    "Adventure Records/Quests/Untitled.md",
+    "Adventure Records/Quests/Quest List.md",
+    "Adventure Records/Quests/Quest Board.md",
+    "Artificer Worshop/Invention Ideas.md",
     "Artificer Worshop/Loadouts.md",
     "Character Profiles/NPCs/Untitled.md",
     "Character Profiles/NPCs/Silvane.md",
     "Character Profiles/NPCs/Nimbus.md",
     "Character Profiles/NPCs/MUntitled.md",
-    "Party Inventory.md",
-    "Artificer Worshop/Material Inventory.md",
-    "Adventure Records/Session Records/Session 50 -.md",
-    "Character Profiles/Wander & Anin.md",
-    "Adventure Records/Threat Index.md"
+    "Party Inventory.md"
   ]
 }
