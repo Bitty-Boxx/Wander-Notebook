@@ -4,7 +4,7 @@ kanban-plugin: basic
 
 ---
 
-## # PLANNING
+## # PENDING
 
 - [ ] ### Radio Petals/Tower<br>Concept:<br>+ Metal flower that can communicate with others who also hold one<br>+ Can send a message directly or by broadcast<br><br>Materials Needed: TBD
 - [ ] ### NKU-Ba<br>Concept:<br>+ Weapon for Leo<br>+ Acts as a backup spellcasting focus as well as a weapon<br>+ Heighten lightning and thunder attacks<br><br>Materials Needed: TBD
