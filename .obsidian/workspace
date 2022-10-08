@@ -7,9 +7,11 @@
         "id": "4fc8e39609511f2c",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Adventure Records/Quests/Questing Board.md"
+            "file": "Adventure Records/Session Records/Session 58 -.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -60,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 196.5
+    "width": 283
   },
   "right": {
     "id": "cc0ece9847c72218",
@@ -76,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventure Records/Quests/Questing Board.md",
+                "file": "Adventure Records/Session Records/Session 58 -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,8 +104,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4fc8e39609511f2c",
+  "active": "b689a6a59f0f6c99",
   "lastOpenFiles": [
+    "Adventure Records/Session Records/Session 50 -.md",
     "Adventure Records/Quests/Questing Board.md",
     "Adventure Records/Quests/Quest Board.md",
     "Adventure Records/Quests/Quest List.md",
@@ -112,7 +115,6 @@
     "Artificer Worshop/Loadouts.md",
     "Character Profiles/NPCs/Untitled.md",
     "Character Profiles/NPCs/Silvane.md",
-    "Character Profiles/NPCs/Nimbus.md",
-    "Character Profiles/NPCs/MUntitled.md"
+    "Character Profiles/NPCs/Nimbus.md"
   ]
 }
