@@ -12,7 +12,7 @@
 	: A goliath called the Owl enters the combat, seeming to instruct the opening of the other cages
 		: She sends a fireball to Gilly, Trognak, Ham, Lilith, and her own man
 	: Gilly is able to bissect [[Axebreaker]] after the Crone fireballs all of them
-	: "This town shall fall, for the rhyme maiden" - The Owl
+	: "This town shall fall, for the rime maiden" - The Owl
 	: Another mabeast is brought from the East, an inside-out snake with part of their cerebrum sticking out
 		: It tries to smash through the Goldenjoy house, guarded inside by Blevins
 	: After the [[Crow]] and the [[Gray Harpoon]] are dispatched, a small horde of [[Inklings]] approach from the south.

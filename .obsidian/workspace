@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Adventure Records/Session Records/Session 58 -.md",
+            "file": "Adventure Records/Session Records/Session 47 -.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventure Records/Session Records/Session 58 -.md",
+                "file": "Adventure Records/Session Records/Session 47 -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,17 +104,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b689a6a59f0f6c99",
+  "active": "4fc8e39609511f2c",
   "lastOpenFiles": [
-    "Adventure Records/Session Records/Session 50 -.md",
+    "Adventure Records/Session Records/Session 46 - Home, Bittersweet Home.md",
+    "Adventure Records/Session Records/Session 58 -.md",
+    "Adventure Records/Session Records/Session 47 -.md",
     "Adventure Records/Quests/Questing Board.md",
+    "Adventure Records/Session Records/Session 50 -.md",
     "Adventure Records/Quests/Quest Board.md",
     "Adventure Records/Quests/Quest List.md",
     "Artificer Worshop/Invention Ideas.md",
     "Adventure Records/Quests/Untitled.md",
-    "Artificer Worshop/Loadouts.md",
-    "Character Profiles/NPCs/Untitled.md",
-    "Character Profiles/NPCs/Silvane.md",
-    "Character Profiles/NPCs/Nimbus.md"
+    "Artificer Worshop/Loadouts.md"
   ]
 }
