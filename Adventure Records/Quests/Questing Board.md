@@ -48,6 +48,11 @@ kanban-plugin: basic
 - [ ] Find and investigate the Sepulchur
 
 
+## # Xeno Planes
+
+- [ ] ## Rime and Reason<br><br>Priority: Normal<br>Difficulty: Fatal<br><br>Location: Feywild - Winter Court<br><br>Overview: <br>_Rotgut said Swordbreaker is looking to expand her power from the attunement with the Winter Court and spire. She'll take over the Feywild and might impact the material._<br><br>_Additionally, Rotgut has refuged a tiefling child in the court. If the others find her, she's likely to be killed._
+
+
 ## # Embarking
 
 
