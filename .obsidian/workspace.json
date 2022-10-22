@@ -11,11 +11,9 @@
             "id": "4fc8e39609511f2c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Adventure Records/Quests/Questing Board.md",
-                "mode": "source",
-                "source": false
+                "file": "Adventure Records/Quests/Questing Board.md"
               }
             }
           }
@@ -117,15 +115,14 @@
   },
   "active": "4fc8e39609511f2c",
   "lastOpenFiles": [
-    "Adventure Records/Session Records/Session 47 -.md",
-    "Adventure Records/Session Records/Session 46 - Home, Bittersweet Home.md",
-    "Adventure Records/Session Records/Session 58 -.md",
+    "Adventure Records/Threat Index.md",
     "Adventure Records/Quests/Questing Board.md",
-    "Adventure Records/Session Records/Session 50 -.md",
-    "Adventure Records/Quests/Quest Board.md",
-    "Adventure Records/Quests/Quest List.md",
     "Artificer Worshop/Invention Ideas.md",
-    "Adventure Records/Quests/Untitled.md",
-    "Artificer Worshop/Loadouts.md"
+    "Artificer Worshop/Build Ideas.md",
+    "Jot-downs.md",
+    "Artificer Worshop/Loadouts.md",
+    "Artificer Worshop/Material Inventory.md",
+    "Adventure Records/Personal Interests.md",
+    "Adventure Records/Groups and Orgs/Groups, Factions, and Orgs Index.md"
   ]
 }
