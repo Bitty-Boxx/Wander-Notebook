@@ -11,9 +11,11 @@
             "id": "4fc8e39609511f2c",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Adventure Records/Quests/Questing Board.md"
+                "file": "Adventure Records/Quests/Questing Board.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
