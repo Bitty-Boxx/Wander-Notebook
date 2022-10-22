@@ -1,0 +1,129 @@
+{
+  "main": {
+    "id": "1ce97222665eb5e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ad0034eab8ec0a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fc8e39609511f2c",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Adventure Records/Quests/Questing Board.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "70ab2e62c2c088a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e0e98a3c97ee148",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40d0aa09787eb08e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "9a5e673045319778",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b689a6a59f0f6c99",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 283
+  },
+  "right": {
+    "id": "cc0ece9847c72218",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2146d4b13d56923",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83782db07b50f766",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Adventure Records/Quests/Questing Board.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5f4d1757855492d5",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "4fc8e39609511f2c",
+  "lastOpenFiles": [
+    "Adventure Records/Session Records/Session 47 -.md",
+    "Adventure Records/Session Records/Session 46 - Home, Bittersweet Home.md",
+    "Adventure Records/Session Records/Session 58 -.md",
+    "Adventure Records/Quests/Questing Board.md",
+    "Adventure Records/Session Records/Session 50 -.md",
+    "Adventure Records/Quests/Quest Board.md",
+    "Adventure Records/Quests/Quest List.md",
+    "Artificer Worshop/Invention Ideas.md",
+    "Adventure Records/Quests/Untitled.md",
+    "Artificer Worshop/Loadouts.md"
+  ]
+}
