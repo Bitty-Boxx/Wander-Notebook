@@ -11,9 +11,11 @@
             "id": "4fc8e39609511f2c",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Adventure Records/Quests/Questing Board.md"
+                "file": "Adventure Records/Groups and Orgs/Groups, Factions, and Orgs Index.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventure Records/Quests/Questing Board.md",
+                "file": "Adventure Records/Groups and Orgs/Groups, Factions, and Orgs Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,14 +117,15 @@
   },
   "active": "4fc8e39609511f2c",
   "lastOpenFiles": [
-    "Adventure Records/Threat Index.md",
+    "Adventure Records/Groups and Orgs/Groups and Orgs Template.md",
+    "Adventure Records/Groups and Orgs/Cirque De Vendico.md",
+    "Character Profiles/Gilly Goldenjoy.md",
     "Adventure Records/Quests/Questing Board.md",
+    "Adventure Records/Threat Index.md",
     "Artificer Worshop/Invention Ideas.md",
     "Artificer Worshop/Build Ideas.md",
     "Jot-downs.md",
     "Artificer Worshop/Loadouts.md",
-    "Artificer Worshop/Material Inventory.md",
-    "Adventure Records/Personal Interests.md",
-    "Adventure Records/Groups and Orgs/Groups, Factions, and Orgs Index.md"
+    "Artificer Worshop/Material Inventory.md"
   ]
 }
